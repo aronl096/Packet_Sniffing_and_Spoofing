@@ -1,6 +1,6 @@
 # Packet_Sniffing_and_Spoofing
 
-##Sniffer.py : 
+## Sniffer.py : 
 Write your own sniffer for capturing packets.  Your sniffer should be able to sniff the following protocols:
 -	TCP
 -	UDP 
